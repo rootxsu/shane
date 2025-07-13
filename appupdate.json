@@ -1,0 +1,9 @@
+{
+"minVersion": "1.0.1",
+"latestVersion": "1.1.0",
+"updateTitle": "New Version Available!",
+"updateImage": "https://soundboard.b-cdn.net/i.png",
+"apkDownloadUrl": "https://soundboard.b-cdn.net/Anubisscanv1.1.1-latest.apk",
+"externalDownloadUrl": "https://soundboard.b-cdn.net/Anubisscanv1.1.1-latest.apk",
+"forceUpdate": true
+}
