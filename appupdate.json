@@ -5,5 +5,5 @@
 "updateImage": "https://soundboard.b-cdn.net/i.png",
 "apkDownloadUrl": "https://soundboard.b-cdn.net/sg/shanev2.apk",
 "externalDownloadUrl": "https://soundboard.b-cdn.net/sg/shanev2.apk",
-"forceUpdate": true
+"forceUpdate": false
 }
