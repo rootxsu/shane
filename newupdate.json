@@ -1,0 +1,9 @@
+{
+  "minVersion": "1.1.2",
+  "latestVersion": "2.1.3",
+  "updateTitle": "New Version Available!",
+  "updateImage": "https://soundboard.b-cdn.net/i.png",
+  "apkDownloadUrl": "https://soundboard.b-cdn.net/sg/shanev2.apk",
+  "externalDownloadUrl": "https://soundboard.b-cdn.net/sg/shanev2.apk",
+  "forceUpdate": false
+}
